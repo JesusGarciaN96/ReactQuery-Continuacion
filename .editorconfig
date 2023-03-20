@@ -1,0 +1,10 @@
+root = true
+
+[*]
+tab_width = 2
+end_of_line = crlf
+
+[*{.ts, .js, .jsx, .tsx}]
+charset = utf-8
+trim_trailing_whitespace = true
+indent_size = 2
